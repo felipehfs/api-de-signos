@@ -1,0 +1,64 @@
+{
+    "signos": [
+        {
+            "name": "Aquário",
+            "starts": "21-01",
+            "ends": "18-02"
+        },
+        {
+            "name": "peixes",
+            "starts": "19-02",
+            "ends": "20-03"
+        },
+        {
+            "name": "Áries",
+            "starts": "21-03",
+            "ends": "20-04"
+        },
+        {
+            "name": "Touro",
+            "starts": "21-04",
+            "ends": "20-05"
+        },
+        {
+            "name": "Gêmeos",
+            "starts": "21-05",
+            "ends": "20-06"
+        },
+        {
+            "name": "Câncer",
+            "starts": "21-06",
+            "ends": "22-07"
+        },
+        {
+            "name": "Leão",
+            "starts": "23-07",
+            "ends": "22-08"
+        },
+        {
+            "name": "Virgem",
+            "starts": "23-08",
+            "ends": "22-09"
+        },
+        {
+            "name": "Libra",
+            "starts": "23-09",
+            "ends": "22-10"
+        },
+        {
+            "name": "Escorpião",
+            "starts": "23-10",
+            "ends": "21-11"
+        },
+        {
+            "name": "Sagitário",
+            "starts": "22-11",
+            "ends": "21-12"
+        },
+        {
+            "name": "Capricórnio",
+            "starts": "22-12",
+            "ends": "20-01"
+        }
+    ]
+}
